@@ -168,6 +168,4 @@ Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 Project Link: [https://github.com/yourusername/face-Recognition](https://github.com/yourusername/face-Recognition)
 
----
 
-Feel free to customize further based on your project's specifics! Would you like me to generate a more professional or minimalist style version?
