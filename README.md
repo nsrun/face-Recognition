@@ -147,11 +147,6 @@ Contributions are highly appreciated! Please fork the repository, create your fe
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
